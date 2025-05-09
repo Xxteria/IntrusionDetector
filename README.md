@@ -99,15 +99,6 @@ The application expects data in the **KDD Cup 1999** format:
 For reference, see the [KDD Cup 1999 Dataset](http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html).
 
 ---
-
-## Project Structure
-
-- `app.py`: Main application script containing the Streamlit app logic.
-- `requirements.txt`: List of Python dependencies.
-- `README.md`: This file, providing an overview and instructions.
-
----
-
 ## Notes
 
 - **Performance**: The application is optimized for the KDD'99 dataset. Performance on real-world network traffic may vary and requires validation.
