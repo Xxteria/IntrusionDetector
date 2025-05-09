@@ -1,4 +1,4 @@
-# Network Intrusion Detection System by Priyanshi Rai, Dakshita Jinda, & Isha Ravani
+# Network Intrusion Detection System by Priyanshi Rai, Dakshita Jindal, & Isha Ravani
 
 This is a Streamlit-based web application designed to detect network intrusions using machine learning. It leverages the Random Forest Classifier to analyze network traffic data, based on the KDD Cup 1999 dataset structure, to classify connections as normal or malicious (attacks). The application supports data exploration, model training, real-time prediction, and batch prediction, making it a comprehensive tool for network security analysis.
 
